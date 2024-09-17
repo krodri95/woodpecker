@@ -6,4 +6,4 @@
  ![Alt text](assets/arena_layout.jpeg)
 
 ## Demo
- ![Video](assets/demo.mp4)
+ [![Video](assets/woodpecker.jpg)](assets/demo.mp4)
